@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Content-Package-Id: my_packages:keiken-Template
+Content-Package-Roots: /conf/wknd/settings/wcm/templates/keiken-templat
+Content-Package-Type: content
+
